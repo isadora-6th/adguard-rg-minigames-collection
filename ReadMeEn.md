@@ -9,8 +9,8 @@ I was able to obtain links to the storage of source files on cloud.mail.ru by an
 In this repository, I am reassembling the JSON obtained from the AdGuard server into a readable format.  
 
 ## Disclaimer
-The files are not mine.  
-All of them are packaged as `.exe` + `.bak`. I recommend checking all files before running them and, in general, using Windows Sandbox to run strange files from the internet.  
+This files are not mine.  
+All of them are packaged as `.exe` + `.bak`. I recommend checking all files before running them and, in general, use Windows Sandbox to run strange files from the internet.  
 I did not find any issues in the couple of games I downloaded, but this does not mean that everything can be trusted.
 
 For work, you may or may NOT need additional software provided by the author of the collection:
@@ -19,7 +19,7 @@ For work, you may or may NOT need additional software provided by the author of 
 # Games by Genre
 
 Clickable links lead to game catalogs. 
-> I did not translated titles inside, you should try some translation
+> I did not translated stuff inside, you should use your browser translate
 
 ### [Catalog: Platformer](generated/out-Бродилка.md)  
 ### [Catalog: Match-3](generated/out-Три%20в%20ряд.md)  
@@ -46,5 +46,5 @@ Clickable links lead to game catalogs.
 
 # List of All Games
 
-> I did not translated titles inside, you should use your translate way
+> I did not translated stuff inside, you should use your browser translate
 ### [Catalog: All Games Listed](generated/out-all.md) (1.5mb)
