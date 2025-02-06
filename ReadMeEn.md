@@ -19,7 +19,7 @@ For work, you may or may NOT need additional software provided by the author of 
 # Games by Genre
 
 Clickable links lead to game catalogs. 
-> I did not translated stuff inside, you should use your browser translate
+> I had not translated stuff inside, you should use your browser translate
 
 ### [Catalog: Platformer](generated/out-Бродилка.md)  
 ### [Catalog: Match-3](generated/out-Три%20в%20ряд.md)  
@@ -46,5 +46,5 @@ Clickable links lead to game catalogs.
 
 # List of All Games
 
-> I did not translated stuff inside, you should use your browser translate
+> I had not translated stuff inside, you should use your browser translate
 ### [Catalog: All Games Listed](generated/out-all.md) (1.5mb)
