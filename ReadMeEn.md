@@ -1,6 +1,6 @@
 # For Russian version:
 
-Proceed to russian version [Readme.md](Readme.md)
+Proceed to russian version [Readme.md](README.md)
 
 # Adaptation of the Mini-Games Collection
 
