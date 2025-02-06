@@ -1,6 +1,6 @@
 # For english version:
 
-Proceed to automatically (deepseek) translated [ReadmeEN.md](ReadmeEN.md)
+Proceed to automatically (deepseek) translated [ReadmeEn.md](ReadmeEN.md)
 
 # Адаптация коллекции мини-игр
 
